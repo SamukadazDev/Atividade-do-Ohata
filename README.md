@@ -21,3 +21,4 @@ A classe `TesteCalculadora.java` contém o método `main`. Ao executá-la como u
 <img width="1919" height="1079" alt="Captura de tela 2026-05-15 200048" src="https://github.com/user-attachments/assets/e720c131-6427-4250-9e14-705deaf00435" />
 <img width="1919" height="1079" alt="Captura de tela 2026-05-15 190232" src="https://github.com/user-attachments/assets/b1371818-2a36-4997-8217-1b37f00ec89c" />
 <img width="1919" height="1079" alt="Captura de tela 2026-05-15 190553" src="https://github.com/user-attachments/assets/d72423e3-8e39-4e3e-9109-f31545af491f" />
+https://github.com/SamukadazDev/Atividade-do-Ohata/blob/main/README.md
